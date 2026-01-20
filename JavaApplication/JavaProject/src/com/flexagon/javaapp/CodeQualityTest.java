@@ -2,6 +2,7 @@ package com.flexagon.javaapp;
 
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
+import org.junit.Test;
 
 public class CodeQualityTest
 {
