@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Report xmlns="http://soap.sforce.com/2006/04/metadata">
-
     <columns>
         <field>ROLLUP_DESCRIPTION</field>
     </columns>
@@ -22,7 +21,6 @@
     <columns>
         <field>AMOUNT</field>
     </columns>
-	
     <columns>
         <field>EXP_AMOUNT</field>
     </columns>
@@ -51,6 +49,7 @@
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <name>New Opportunities Report</name>
+	
     <params>
         <name>open</name>
         <value>all</value>
