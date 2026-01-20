@@ -3,7 +3,7 @@ CREATE OR REPLACE PACKAGE BODY nice.cust_sal AS
 --
 --            NAME:   cust_sal
 --            TYPE:   Package Specification
---            ORIGINAL AUTHOR:   DP and PD
+--            ORIGINAL AUTHOR:   DP and PDR
 --            DATE:   4/8/2021
 --
 --     DESCRIPTION:
