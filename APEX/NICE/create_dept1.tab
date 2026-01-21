@@ -6,4 +6,4 @@ CREATE TABLE NICE.DEPT1
      PRIMARY KEY ("DEPTNO")
 );
 
--- Test usecase
+-- Test 

@@ -8,7 +8,7 @@ whenever sqlerror exit sql.sqlcode rollback
 -- APEX_050000 or as the owner (parsing schema) of the application.
 --
 -- NOTE: Calls to apex_application_install override the defaults below.
--- Also a testing
+-- Also a 
 --
 --------------------------------------------------------------------------------
 begin
