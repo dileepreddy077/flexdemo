@@ -9,6 +9,7 @@ whenever sqlerror exit sql.sqlcode rollback
 --
 -- NOTE: Calls to apex_application_install override the defaults below.
 -- Also a 
+-- Also a testing
 --
 --------------------------------------------------------------------------------
 begin
