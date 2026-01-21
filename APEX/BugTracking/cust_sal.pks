@@ -3,7 +3,7 @@ CREATE OR REPLACE PACKAGE nice.cust_sal AS
 --
 --            NAME:   cust_sal
 --            TYPE:   Package Specification
---            ORIGINAL AUTHOR:   Chandresh Patel
+--            ORIGINAL AUTHOR:   DP and PD
 --            DATE:   2/7/2022 2:45 PM
 --
 --     DESCRIPTION:
@@ -15,9 +15,9 @@ CREATE OR REPLACE PACKAGE nice.cust_sal AS
 --
 --     VERSION  DATE          AUTHOR              LABEL     DESCRIPTION
 --     -------  -----------   ----------------    --------  -----------------------------------------
---     1.0      2/11/2022    Chandresh Patel      N/A       Initial Version
---     2.0      2/18/2022    Dan Goerdt           N/A       Made change 2
---     3.0      2/22/2022    Dan Goerdt           N/A       Made change 3
+--     1.0      2/11/2022    DP                   N/A       Initial Version
+--     2.0      2/18/2022    DG                   N/A       Made change 2
+--     3.0      2/22/2022    DG                   N/A       Made change 3
 -----------------------------------------------------------------------------------------------------
 
     PROCEDURE find_sal(e_id NUMBER); 
