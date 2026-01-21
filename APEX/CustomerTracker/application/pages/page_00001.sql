@@ -890,7 +890,7 @@ end;
 begin
  
 ---------------------------------------
--- ... This is updatable report columns for page 1
+-- ... This report columns for page 1
 --
  
 begin
