@@ -5,3 +5,5 @@ CREATE TABLE NICE.DEPT1
     "LOC" VARCHAR2(13 BYTE), 
      PRIMARY KEY ("DEPTNO")
 );
+
+-- Test usecase file
