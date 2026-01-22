@@ -4,3 +4,4 @@ CREATE TABLE nice.persons(
     last_name VARCHAR2(50) NOT NULL,
     PRIMARY KEY(person_id)
 );
+--Note: Test Strategy commit
